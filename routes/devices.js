@@ -13,7 +13,7 @@ router.route('/')
       //GET /devices/ip/:deviceIp
       //ex: GET /api/devices/ip/192.168.100.10
       //have to find the user from database and return it
-      res.send("inside /createDevices");
+      res.render('devices');
 
     })
     .post(function(req, res, next){
