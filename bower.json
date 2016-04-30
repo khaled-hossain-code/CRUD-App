@@ -1,0 +1,18 @@
+{
+  "name": "CRUD-App",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Khaled Hossain <md.khaled.eee@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "./bin/www",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
